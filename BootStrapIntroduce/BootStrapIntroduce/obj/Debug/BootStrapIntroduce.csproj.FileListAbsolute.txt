@@ -1,0 +1,106 @@
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\ApplicationInsights.config
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\csc.exe
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\csc.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\csc.rsp
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\csi.exe
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\csi.rsp
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\System.AppContext.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\System.IO.FileSystem.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\vbc.exe
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\vbc.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\vbc.rsp
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\VBCSCompiler.exe
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\BootStrapIntroduce.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\BootStrapIntroduce.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\BootStrapIntroduce.pdb
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.Web.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.WindowsServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.ApplicationInsights.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Newtonsoft.Json.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.Web.xml
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.WindowsServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.ApplicationInsights.xml
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\bin\Newtonsoft.Json.xml
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\obj\Debug\BootStrapIntroduce.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\obj\Debug\BootStrapIntroduce.dll
+c:\users\pc\documents\visual studio 2015\Projects\BootStrapIntroduce\BootStrapIntroduce\obj\Debug\BootStrapIntroduce.pdb
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\ApplicationInsights.config
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\BootStrapIntroduce.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\BootStrapIntroduce.pdb
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\EntityFramework.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\EntityFramework.xml
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.ApplicationInsights.xml
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\obj\Debug\BootStrapIntroduce.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\obj\Debug\BootStrapIntroduce.dll
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\obj\Debug\BootStrapIntroduce.pdb
+C:\Users\admin\Desktop\BootStrapIntroduce\BootStrapIntroduce\bin\BootStrapIntroduce.dll.config
